@@ -11,7 +11,7 @@ import (
 
 type EnvConfig struct {
 	TelegramID      []int64 `mapstructure:"TELEGRAM_ID"`
-	TelegramToken   string  `mapstructure:"TELEGRAM_TOKEN"`
+	TelegramToken   string  `mapstructure:"6132340573:AAGqK8uF6jCvz2eDsbFjf7k2vHNdHOpOIBI"`
 	EditWaitSeconds int     `mapstructure:"EDIT_WAIT_SECONDS"`
 }
 
